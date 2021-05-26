@@ -10,11 +10,17 @@ namespace Methots
             int b = 3;
             Console.WriteLine(a + b);
 
-            int sonuc = Topla(a, b);
-            Console.Write(sonuc);
 
-            Methotlar ornek = new Methotlar();
-            ornek.EkranaYazdir(Convert.ToString(sonuc));
+
+            int toplamSonucu;
+            Methotlar instance = new Methotlar();
+            instance.Topla(4,5, out toplamSonucu);
+            Console.WriteLine(toplamSonucu);
+
+            int ifade = 999;
+            instance.EkranaYazdir(ifade.ToString());
+            instance.EkranaYazdir(ifade);
+            instance.EkranaYazdir("Eren","Yilmaz");
 
 
             int sonuc2 = ornek.ArttirveTopla(a, b);
@@ -22,21 +28,38 @@ namespace Methots
             ornek.EkranaYazdir(Convert.ToString(a + b));
         }
 
-
-
-        static int Topla(int deger1, int deger2)
-        {
-            return deger1 + deger2;
-        }
     }
 
 
     class Methotlar
     {
+
+        public void Topla(int a, int b, out int toplam)
+        {
+            toplam = a + b;
+        }
+
+
+
         public void EkranaYazdir(string veri)
         {
             Console.WriteLine(veri);
         }
+
+
+
+        public void EkranaYazdir(int veri)
+        {
+            Console.WriteLine(veri.ToString());
+        }
+
+
+
+        public void EkranaYazdir(string veri1, string veri2)
+        {
+            Console.WriteLine(veri1 + veri2));
+        }
+
 
         public int ArttirveTopla(int deger1, int deger2)
         {
