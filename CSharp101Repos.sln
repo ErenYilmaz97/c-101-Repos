@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{3C7D5C34-18E9-421E-9F25-98A66C9A8CAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7D5C34-18E9-421E-9F25-98A66C9A8CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7D5C34-18E9-421E-9F25-98A66C9A8CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7D5C34-18E9-421E-9F25-98A66C9A8CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7D5C34-18E9-421E-9F25-98A66C9A8CAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
