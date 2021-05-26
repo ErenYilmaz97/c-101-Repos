@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{9B644D71-184C-4723-97DE-19DAAC1D85AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B644D71-184C-4723-97DE-19DAAC1D85AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B644D71-184C-4723-97DE-19DAAC1D85AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B644D71-184C-4723-97DE-19DAAC1D85AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
