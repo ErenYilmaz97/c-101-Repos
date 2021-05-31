@@ -18,16 +18,19 @@ namespace Class
 
             calisan1.CalisanBilgileri();
             calisan2.CalisanBilgileri();
+
+            Console.WriteLine(Islemler.Topla(50,100));
+            Console.WriteLine(Islemler.Cikar(350, 100));
         }
     }
 
 
     class Calisan
     {
-        public string Ad;
-        public string Soyad;
-        public int No;
-        public string Departman;
+        public string Ad { get; set; }
+        public string Soyad { get; set; }
+        public int No { get; set; }
+        public string Departman { get; set; }
 
 
         public Calisan()
@@ -58,6 +61,22 @@ namespace Class
             Console.WriteLine($"Çalışan Soyadı : {Soyad}");
             Console.WriteLine($"Çalışan Numarası : {No}");
             Console.WriteLine($"Çalışan Departmanı : {Departman}");
+        }
+    }
+
+
+
+    static class Islemler
+    {
+        public static long Topla(int sayi1, int sayi2)
+        {
+            return sayi1 + sayi2;
+        }
+
+
+        public static long Cikar(int sayi1, int sayi2)
+        {
+            return sayi1 - sayi2;
         }
     }
 }
