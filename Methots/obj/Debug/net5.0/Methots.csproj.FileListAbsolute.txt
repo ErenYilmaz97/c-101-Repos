@@ -1,0 +1,15 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\Methots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\Methots.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\Methots.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\Methots.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\bin\Debug\net5.0\Methots.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\bin\Debug\net5.0\Methots.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\bin\Debug\net5.0\Methots.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\bin\Debug\net5.0\Methots.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\bin\Debug\net5.0\Methots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\bin\Debug\net5.0\ref\Methots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\bin\Debug\net5.0\Methots.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\Methots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\ref\Methots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\Methots.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Methots\obj\Debug\net5.0\Methots.genruntimeconfig.cache

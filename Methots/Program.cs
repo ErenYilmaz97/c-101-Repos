@@ -23,9 +23,9 @@ namespace Methots
             instance.EkranaYazdir("Eren","Yilmaz");
 
 
-            int sonuc2 = ornek.ArttirveTopla(a, b);
-            ornek.EkranaYazdir(Convert.ToString(sonuc2));
-            ornek.EkranaYazdir(Convert.ToString(a + b));
+            //int sonuc2 = ornek.ArttirveTopla(a, b);
+            //ornek.EkranaYazdir(Convert.ToString(sonuc2));
+            //ornek.EkranaYazdir(Convert.ToString(a + b));
         }
 
     }
@@ -57,7 +57,7 @@ namespace Methots
 
         public void EkranaYazdir(string veri1, string veri2)
         {
-            Console.WriteLine(veri1 + veri2));
+            Console.WriteLine(veri1 + veri2);
         }
 
 

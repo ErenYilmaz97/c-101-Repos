@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

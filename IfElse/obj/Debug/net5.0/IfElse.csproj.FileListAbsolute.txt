@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\bin\Debug\net5.0\IfElse.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\bin\Debug\net5.0\IfElse.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\bin\Debug\net5.0\IfElse.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\bin\Debug\net5.0\ref\IfElse.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\bin\Debug\net5.0\IfElse.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\ref\IfElse.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\IfElse\obj\Debug\net5.0\IfElse.genruntimeconfig.cache

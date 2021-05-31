@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\bin\Debug\net5.0\Class.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\bin\Debug\net5.0\Class.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\bin\Debug\net5.0\Class.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\bin\Debug\net5.0\Class.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\bin\Debug\net5.0\Class.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\bin\Debug\net5.0\ref\Class.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\bin\Debug\net5.0\Class.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\ref\Class.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Class\obj\Debug\net5.0\Class.genruntimeconfig.cache

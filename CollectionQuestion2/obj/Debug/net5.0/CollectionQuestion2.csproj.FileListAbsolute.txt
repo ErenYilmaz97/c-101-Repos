@@ -13,3 +13,4 @@ C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion2\obj\Debug\net
 C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion2\obj\Debug\net5.0\ref\CollectionQuestion2.dll
 C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion2\obj\Debug\net5.0\CollectionQuestion2.pdb
 C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion2\obj\Debug\net5.0\CollectionQuestion2.genruntimeconfig.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion2\obj\Debug\net5.0\CollectionQuestion2.csprojAssemblyReference.cache

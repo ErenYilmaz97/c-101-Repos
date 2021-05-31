@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\bin\Debug\net5.0\StringMethots.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\bin\Debug\net5.0\StringMethots.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\bin\Debug\net5.0\StringMethots.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\bin\Debug\net5.0\StringMethots.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\bin\Debug\net5.0\StringMethots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\bin\Debug\net5.0\ref\StringMethots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\bin\Debug\net5.0\StringMethots.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\ref\StringMethots.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\StringMethots\obj\Debug\net5.0\StringMethots.genruntimeconfig.cache

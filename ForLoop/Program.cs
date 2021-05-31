@@ -22,12 +22,6 @@ namespace ForLoop
             }
 
 
-            for (;;)
-            {
-                if (i == 4)
-                    continue;
-                Console.WriteLine(i);
-            }
         }
     }
 }

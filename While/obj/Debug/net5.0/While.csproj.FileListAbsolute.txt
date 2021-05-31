@@ -1,0 +1,15 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\bin\Debug\net5.0\While.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\bin\Debug\net5.0\While.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\bin\Debug\net5.0\While.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\bin\Debug\net5.0\While.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\bin\Debug\net5.0\While.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\bin\Debug\net5.0\ref\While.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\bin\Debug\net5.0\While.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\While.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\While.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\While.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\While.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\ref\While.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\While.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\While\obj\Debug\net5.0\While.genruntimeconfig.cache

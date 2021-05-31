@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache

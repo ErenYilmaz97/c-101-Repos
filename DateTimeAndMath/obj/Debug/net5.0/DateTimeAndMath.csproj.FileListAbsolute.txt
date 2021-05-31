@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\bin\Debug\net5.0\DateTimeAndMath.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\bin\Debug\net5.0\DateTimeAndMath.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\bin\Debug\net5.0\DateTimeAndMath.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\bin\Debug\net5.0\DateTimeAndMath.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\bin\Debug\net5.0\DateTimeAndMath.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\bin\Debug\net5.0\ref\DateTimeAndMath.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\bin\Debug\net5.0\DateTimeAndMath.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\ref\DateTimeAndMath.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\DateTimeAndMath\obj\Debug\net5.0\DateTimeAndMath.genruntimeconfig.cache
