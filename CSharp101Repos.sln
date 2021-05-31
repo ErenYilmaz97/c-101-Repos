@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice1", "Practice1\Prac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethots", "StringMethots\StringMethots.csproj", "{B446E840-0A70-4BD4-809F-F8281DEF882E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeAndMath", "DateTimeAndMath\DateTimeAndMath.csproj", "{D3A2CB9D-8B7D-48A4-B22F-92DB5F33906D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B446E840-0A70-4BD4-809F-F8281DEF882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B446E840-0A70-4BD4-809F-F8281DEF882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B446E840-0A70-4BD4-809F-F8281DEF882E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A2CB9D-8B7D-48A4-B22F-92DB5F33906D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A2CB9D-8B7D-48A4-B22F-92DB5F33906D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A2CB9D-8B7D-48A4-B22F-92DB5F33906D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A2CB9D-8B7D-48A4-B22F-92DB5F33906D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
