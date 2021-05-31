@@ -1,0 +1,15 @@
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\bin\Debug\net5.0\CollectionQuestion3.exe
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\bin\Debug\net5.0\CollectionQuestion3.deps.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\bin\Debug\net5.0\CollectionQuestion3.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\bin\Debug\net5.0\CollectionQuestion3.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\bin\Debug\net5.0\CollectionQuestion3.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\bin\Debug\net5.0\ref\CollectionQuestion3.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\bin\Debug\net5.0\CollectionQuestion3.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\CollectionQuestion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\CollectionQuestion3.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\CollectionQuestion3.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\CollectionQuestion3.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\CollectionQuestion3.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\ref\CollectionQuestion3.dll
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\CollectionQuestion3.pdb
+C:\Users\eren_\Desktop\örnekc#\CSharp101Repos\CollectionQuestion3\obj\Debug\net5.0\CollectionQuestion3.genruntimeconfig.cache
