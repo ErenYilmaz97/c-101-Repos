@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{FE28AE98-FE09-49C0-81F7-2305FD442DD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{FE28AE98-FE09-49C0-81F7-2305FD442DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{9B644D71-184C-4723-97DE-19DAAC1D85AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{9B644D71-184C-4723-97DE-19DAAC1D85AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryCatch", "TryCatch\TryCatch.csproj", "{CE2965BF-B1DB-4D68-86FA-30C5FD7FFFBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{3C7D5C34-18E9-421E-9F25-98A66C9A8CAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElse", "IfElse\IfElse.csproj", "{3C7D5C34-18E9-421E-9F25-98A66C9A8CAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{8215598D-CB07-46E0-B665-2E907A0937A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{8215598D-CB07-46E0-B665-2E907A0937A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{3843684C-78BE-4D54-9BD1-B96E106B6274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.csproj", "{3843684C-78BE-4D54-9BD1-B96E106B6274}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj", "{8873039E-0674-4147-A6EA-47BC5BD2C373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While", "While\While.csproj", "{8873039E-0674-4147-A6EA-47BC5BD2C373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{07BDE3C1-5D6E-4734-AB60-F4F4D06A71E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{07BDE3C1-5D6E-4734-AB60-F4F4D06A71E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methots", "Methots\Methots.csproj", "{6A50477E-C719-47FB-B927-E531A80C78D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methots", "Methots\Methots.csproj", "{6A50477E-C719-47FB-B927-E531A80C78D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1", "Practice1\Practice1.csproj", "{A93C0CE3-66DA-4A25-9DB6-B2A034EFC622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice1", "Practice1\Practice1.csproj", "{A93C0CE3-66DA-4A25-9DB6-B2A034EFC622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethots", "StringMethots\StringMethots.csproj", "{B446E840-0A70-4BD4-809F-F8281DEF882E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{A93C0CE3-66DA-4A25-9DB6-B2A034EFC622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A93C0CE3-66DA-4A25-9DB6-B2A034EFC622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A93C0CE3-66DA-4A25-9DB6-B2A034EFC622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B446E840-0A70-4BD4-809F-F8281DEF882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B446E840-0A70-4BD4-809F-F8281DEF882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B446E840-0A70-4BD4-809F-F8281DEF882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B446E840-0A70-4BD4-809F-F8281DEF882E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
