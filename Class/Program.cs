@@ -6,11 +6,8 @@ namespace Class
     {
         static void Main(string[] args)
         {
-            Calisan calisan1 = new Calisan();
-            calisan1.Ad = "Eren";
-            calisan1.Soyad = "Yılmaz";
-            calisan1.No = 32131231;
-            calisan1.Departman = "Yazılım";
+            Calisan calisan1 = new Calisan("Eren","Yılmaz",312312,"Yazılım");
+            
 
 
             Calisan calisan2 = new Calisan();
@@ -31,6 +28,28 @@ namespace Class
         public string Soyad;
         public int No;
         public string Departman;
+
+
+        public Calisan()
+        {
+            
+        }
+
+
+        public Calisan(string ad, string soyad)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+        }
+
+
+
+        public Calisan(string ad, string soyad, int no, string departman):this(ad,soyad)
+        {
+            this.No = no;
+            this.Departman = departman;
+        }
+
 
 
         public void CalisanBilgileri()
